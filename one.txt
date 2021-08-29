@@ -1,3 +1,2 @@
-One line added
-Second line added
-Third line added
+One line add
+second line added
